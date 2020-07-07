@@ -1,0 +1,4 @@
+Eliminar este archivo. 
+Solo es para hacer pruebas con:
+
+git reset  HEAD y git rm
