@@ -11,5 +11,6 @@ En este curso vemos de todo.
 * Las personalidades multiples de Freddy.
 * Creado por la increible Frida
 * Incluye ejemplos en Windows, Linux y Mac.
+* Disponible para todas las edades.
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE TOMES EN SERIO y mejor ve a **ver el curso**
